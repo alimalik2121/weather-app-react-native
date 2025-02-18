@@ -1,0 +1,30 @@
+[
+    {
+      "id": 1,
+      "name": "New York",
+      "country": "US",
+      "temp": 22.0,
+      "population": 8419000,
+      "sunrise": 1618281600000,
+      "sunset": 1618328400000
+    },
+    {
+      "id": 2,
+      "name": "London",
+      "country": "GB",
+      "temp": 18.5,
+      "population": 8982000,
+      "sunrise": 1618285200000,
+      "sunset": 1618332000000
+    },
+    {
+      "id": 3,
+      "name": "Tokyo",
+      "country": "JP",
+      "temp": 25.0,
+      "population": 13929000,
+      "sunrise": 1618238400000,
+      "sunset": 1618285200000
+    }
+  ]
+  
